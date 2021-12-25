@@ -1,3 +1,5 @@
 - [插件周刊说明](README.md)
 - [Obsidian插件周刊第一期](ob-plugin/01.Obsidian插件周刊第一期.md)
 - [Obsidian插件周刊第二期](ob-plugin/02.Obsidian插件周刊第二期.md)
+- [Obsidian插件周刊第三期](ob-plugin/03.Obsidian插件周刊第三期.md)
+- [Obsidian插件周刊第四期](ob-plugin/04.Obsidian插件周刊第四期.md)
