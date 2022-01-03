@@ -1,5 +1,5 @@
 
-## 前言
+## 欢迎来访: ![](https://visitor-badge.laobi.icu/badge?page_id=ob-plugin.eryajf.net)
 
 Obsidian有非常丰富的插件系统，而且社区插件基本上全部都是免费提供的，广大开发者利用他们各自的智慧，共同将ob的生态推向一个又一个神奇的境界。
 
