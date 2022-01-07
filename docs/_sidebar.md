@@ -8,3 +8,6 @@
 - [Obsidian插件周刊第七期](ob-plugin/07.Obsidian插件周刊第七期.md)
 - [Obsidian插件周刊第八期](ob-plugin/08.Obsidian插件周刊第八期.md)
 - [Obsidian插件周刊第九期](ob-plugin/09.Obsidian插件周刊第九期.md)
+- [Obsidian插件周刊第十期](ob-plugin/10.Obsidian插件周刊第十期.md)
+- [Obsidian插件周刊第十一期](ob-plugin/11.Obsidian插件周刊第十一期.md)
+- [Obsidian插件周刊第十二期](ob-plugin/12.Obsidian插件周刊第十二期.md)
