@@ -23,6 +23,8 @@ newest_files=$( \
   head -n10 | \
   cut -d " " -f2-)
 
+echo ${newest_files}
+
 items=""
 for file in ${newest_files[@]}; do
   echo $file
@@ -53,4 +55,4 @@ rss_content="<rss xmlns:atom=\"http://www.w3.org/2005/Atom\" version=\"2.0\">
 </channel>
 </rss>"
 
-echo "$rss_content" > $feed
+echo "$rss_content" > docs/$feed
