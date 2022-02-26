@@ -12,6 +12,329 @@
     <description><![CDATA[<h2 id="前言">前言</h2>
 <p>请参阅：<a
 href="https://wiki.eryajf.net/pages/bcc523/">Obsidian插件周刊说明</a>。</p>
+<h2 id="outliner">Outliner</h2>
+<ul>
+<li>插件名称：Outliner</li>
+<li>插件作者：Viacheslav Slinko</li>
+<li>插件说明：使用您的列表，如在Workflow或RoamResearch中。</li>
+<li>插件仓库：<a
+href="https://github.com/vslinko/obsidian-outliner">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>提供了类似vscode中上下移动列表，以及tab键缩进的功能。<a
+href="https://wiki.eryajf.net/pages/6ed7fe/#outliner">详情参考</a></p>
+</blockquote>
+<h2 id="unique-attachments">Unique attachments</h2>
+<ul>
+<li>插件名称：Unique attachments</li>
+<li>插件作者：Dmitry Savosh</li>
+<li>插件说明：重命名附件，使其名称唯一 (基于文件内容的哈希)</li>
+<li>插件仓库：<a
+href="https://github.com/derwish-pro/obsidian-unique-attachments">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>推荐安装，此插件能够将附件以MD5重命名，从而规避默认情况下插入的图片名字有空格的问题。</p>
+</blockquote>
+<h2 id="commits">Commits</h2>
+<ul>
+<li>插件名称：Commits</li>
+<li>插件作者：darakah</li>
+<li>插件说明：跟踪和显示黑曜石保险库或指定项目中的提交。</li>
+<li>插件仓库：<a
+href="https://github.com/Darakah/obsidian-commits">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>跟踪和审查黑曜石保险库或指定项目中的更改。有一款github活动块儿风格的插件。</p>
+</blockquote>
+<p>官方提供示例如下：</p>
+<p><img
+src="http://t.eryajf.net/imgs/2022/01/c35112d51f7133ae.png" /></p>
+<h2 id="extract-url-content">Extract url content</h2>
+<ul>
+<li>插件名称：Extract url content</li>
+<li>插件作者：Stephen Solka</li>
+<li>插件说明：提取URL将内容转换为标记</li>
+<li>插件仓库：<a
+href="https://github.com/trashhalo/obsidian-extract-url">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>一款快速将网页内容转为Markdown的插件，理想情况下，这个插件能够快速将你想剪藏的网页内容落到你的ob中。</p>
+</blockquote>
+<p>官方提供示例如下：</p>
+<p><img
+src="http://t.eryajf.net/imgs/2022/01/4349a4e023b1b133.gif" /></p>
+<h2 id="dice-roller">Dice Roller</h2>
+<ul>
+<li>插件名称：Dice Roller</li>
+<li>插件作者：Jeremy Valentine</li>
+<li>插件说明：给你的笔记增加一点随机性!</li>
+<li>插件仓库：<a
+href="https://github.com/valentine195/obsidian-dice-roller">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>提供了一个骰子能力，你切换到预览的时候，能够随机展示你给定的规则内的信息。详情参考插件说明。</p>
+</blockquote>
+<p>示例如下，添加<code>dice: 1d10</code>，到预览页面，会展示1到10之间的随机数。</p>
+<p><img
+src="http://t.eryajf.net/imgs/2022/01/186d5027e864a0b5.gif" /></p>
+<h2 id="buttons">Buttons</h2>
+<ul>
+<li>插件名称：Buttons</li>
+<li>插件作者：Sam Morrison</li>
+<li>插件说明：在黑曜石笔记中创建按钮以运行命令、打开链接和插入模板</li>
+<li>插件仓库：<a
+href="https://github.com/shabegom/buttons">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>提供了在ob中添加button的能力。<a
+href="https://wiki.eryajf.net/pages/6ed7fe/#buttons">详情参考</a></p>
+</blockquote>
+<h2 id="find-and-replace-in-selection">Find and replace in
+selection</h2>
+<ul>
+<li>插件名称：Find and replace in selection</li>
+<li>插件作者：Dmitry Savosh</li>
+<li>插件说明：在选定的文本中查找您要查找的内容，并将其替换为指定的文本</li>
+<li>插件仓库：<a
+href="https://github.com/derwish-pro/obsidian-find-and-replace-in-selection">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>ob本身支持查找与替换，只不过不支持正则，这个插件在此能力之上，添加了正则的能力支持。</p>
+</blockquote>
+<h2 id="admonition">Admonition</h2>
+<ul>
+<li>插件名称：Admonition</li>
+<li>插件作者：Jeremy Valentine</li>
+<li>插件说明：Obsidian.md 的块样式内容</li>
+<li>插件仓库：<a
+href="https://github.com/valentine195/obsidian-admonition">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>能够为ob添加注释块儿风格的插件。<a
+href="https://wiki.eryajf.net/pages/6ed7fe/#admonition">详情参考</a>。</p>
+</blockquote>
+<h2 id="embedded-note-titles">Embedded Note Titles</h2>
+<ul>
+<li>插件名称：Embedded Note Titles</li>
+<li>插件作者：mgmeyers</li>
+<li>插件说明：将笔记标题以一级标题的样式插入到笔记开头</li>
+<li>插件仓库：<a
+href="https://github.com/mgmeyers/obsidian-embedded-note-titles">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>自动将笔记的标题放在正文开头的一个插件。</p>
+</blockquote>
+<p>官方提供示例如下：</p>
+<p><img
+src="http://t.eryajf.net/imgs/2022/01/6ebfeb8ea52ec389.gif" /></p>
+<h2 id="tracker">Tracker</h2>
+<ul>
+<li>插件名称：Tracker</li>
+<li>插件作者：pyrochlore</li>
+<li>插件说明：跟踪笔记中出现的事件和数字</li>
+<li>插件仓库：<a
+href="https://github.com/pyrochlore/obsidian-tracker">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>如说明所言，不过此插件提供的能力非常丰富。</p>
+</blockquote>
+<p>官方提供示例如下：</p>
+<p><img
+src="http://t.eryajf.net/imgs/2022/01/521463d609a51e1a.png" /></p>]]></description>
+    <pubDate>Mon, 14 Feb 2022 10:18:59 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[ 前言]]></title>
+    <link>http://ob-plugin.eryajf.net/#/</link>
+    <guid isPermaLink="false">http://ob-plugin.eryajf.net/#/</guid>
+    <description><![CDATA[<h2 id="前言">前言</h2>
+<p>请参阅：<a
+href="https://wiki.eryajf.net/pages/bcc523/">Obsidian插件周刊说明</a>。</p>
+<h2 id="remember-cursor-position">Remember cursor position</h2>
+<ul>
+<li>插件名称：Remember cursor position</li>
+<li>插件作者：Dmitry Savosh</li>
+<li>插件说明：记住每个音符的光标和滚动位置</li>
+<li>插件仓库：<a
+href="https://github.com/derwish-pro/obsidian-remember-cursor-position">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>这个插件会记住每个音符的光标位置和滚动。当您在笔记之间切换，从一个链接转到另一个链接，返回时，这非常方便，您无需滚动到上次所在的位置。所有笔记的光标位置、滚动和文本选择都存储在一个文件中（路径可以在设置中设置），因此即使您关闭
+Obsidian 并再次打开它也会恢复所有内容。</p>
+</blockquote>
+<h2 id="pane-relief">Pane Relief</h2>
+<ul>
+<li>插件名称：Pane Relief</li>
+<li>插件作者：PJ Eby</li>
+<li>插件说明：每个窗格的历史记录、用于窗格移动和导航的热键等</li>
+<li>插件仓库：<a
+href="https://github.com/pjeby/pane-relief">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>该插件将每个窗格的导航历史记录添加到<a
+href="https://obsidian.md/">Obsidian.md</a>中，以及用于跳转到特定窗格或移动它们的键盘命令。</p>
+</blockquote>
+<h2 id="devonlink---open-or-reveal-notes-in-devonthink">DEVONlink - Open
+or reveal notes in DEVONthink</h2>
+<ul>
+<li>插件名称：DEVONlink - Open or reveal notes in DEVONthink</li>
+<li>插件作者：ryanjamurphy</li>
+<li>插件说明：在DEVONThink中打开或显示当前便笺。</li>
+<li>插件仓库：<a
+href="https://github.com/ryanjamurphy/DEVONlink-obsidian">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>这个插件应该是跟另一款软件协同工作的，通常我们用不到。</p>
+</blockquote>
+<h2 id="hotkey-helper">Hotkey Helper</h2>
+<ul>
+<li>插件名称：Hotkey Helper</li>
+<li>插件作者：PJ Eby</li>
+<li>插件说明：从社区插件选项卡轻松查看和访问任何插件设置或热键分配(和冲突)</li>
+<li>插件仓库：<a
+href="https://github.com/pjeby/hotkey-helper">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>非常推荐大家安装的一款插件，能够在插件的按钮旁边，添加插件设置以及快捷键的按钮，绝对神器。</p>
+</blockquote>
+<p>官方提供动图如下：</p>
+<p><img
+src="http://t.eryajf.net/imgs/2022/01/5882e8a26e8a8268.gif" /></p>
+<h2 id="text-snippets">Text Snippets</h2>
+<ul>
+<li>插件名称：Text Snippets</li>
+<li>插件作者：Ariana Khitrova</li>
+<li>插件说明：用于更快打字的代码片断</li>
+<li>插件仓库：<a
+href="https://github.com/ArianaKhit/text-snippets-obsidian">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>它允许您替换文本模板以加快输入速度，创建自己的片段，几乎就像在许多文本编辑器和
+IDE 中一样。</p>
+</blockquote>
+<p>官方提供动图如下：</p>
+<p><img
+src="http://t.eryajf.net/imgs/2022/01/ca78f7ea78e68eb1.gif" /></p>
+<h2 id="consistent-attachments-and-links">Consistent attachments and
+links</h2>
+<ul>
+<li>插件名称：Consistent attachments and links</li>
+<li>插件作者：Dmitry Savosh</li>
+<li>插件说明：自动移动笔记附件和更新链接</li>
+<li>插件仓库：<a
+href="https://github.com/derwish-pro/obsidian-consistent-attachments-and-links">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>这个插件提供了针对附件管理的统一风格的能力，比如将所有图片引用路径改成相对路径引用等能力。</p>
+</blockquote>
+<h2 id="languagetool-integration">LanguageTool Integration</h2>
+<ul>
+<li>插件名称：LanguageTool Integration</li>
+<li>插件作者：Clemens Ertle</li>
+<li>插件说明：借助语言工具进行高级拼写/语法检查</li>
+<li>插件仓库：<a
+href="https://github.com/Clemens-E/obsidian-languagetool-plugin">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>需要借助外部api才能提供检查，可按需配置。</p>
+</blockquote>
+<h2 id="plantuml">PlantUML</h2>
+<ul>
+<li>插件名称：PlantUML</li>
+<li>插件作者：Johannes Theiner</li>
+<li>插件说明：生成PlantUML图</li>
+<li>插件仓库：<a
+href="https://github.com/joethei/obsidian-plantuml">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>在obsidian中渲染PlantUML图，一种看起来像是泳道类型的图。</p>
+</blockquote>
+<p>官方提供动图如下：</p>
+<p><img
+src="http://t.eryajf.net/imgs/2022/01/f60e78e4fd8fd5da.gif" /></p>
+<h2 id="open-cards-in-imdone-from-obsidian.">Open cards in imdone from
+obsidian.</h2>
+<ul>
+<li>插件名称：Open cards in imdone from obsidian.</li>
+<li>插件作者：saxmanjes</li>
+<li>插件说明：从黑曜石的来源在imdone看板中打开卡片。从黑曜石中打开imdone的卡片。</li>
+<li>插件仓库：<a
+href="https://github.com/imdone/imdone-obsidian-plugin">点我跳转</a></li>
+</ul>
+<blockquote>
+<p><a
+href="https://imdone.io/">Imdone</a>是一个简单而强大的看板，它在纯文本
+Markdown 文件或代码的本地文件夹之上工作。 这个插件会将你所有的 imdone
+卡片变成 obsidian 中的 imdone 链接。单击链接将打开卡的 imdone。</p>
+</blockquote>
+<h2 id="spotlight">Spotlight</h2>
+<ul>
+<li>插件名称：Spotlight</li>
+<li>插件作者：darakah</li>
+<li>插件说明：块，其特征是来自指定项目中的
+vault/的随机注释或注释块，或具有某些标记组合。</li>
+<li>插件仓库：<a
+href="https://github.com/Darakah/obsidian-spotlight">点我跳转</a></li>
+</ul>
+<blockquote>
+<p>能够将一段内容渲染成块儿注释的样式，类似代码块儿一样的。</p>
+</blockquote>
+<p>官方提供示例如下：</p>
+<p><img
+src="http://t.eryajf.net/imgs/2022/01/bfed556fd8f68ae9.png" /></p>]]></description>
+    <pubDate>Mon, 14 Feb 2022 10:18:59 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[[插件周刊说明](README.md)]]></title>
+    <link>http://ob-plugin.eryajf.net/#/</link>
+    <guid isPermaLink="false">http://ob-plugin.eryajf.net/#/</guid>
+    <description><![CDATA[<ul>
+<li><a href="README.md">插件周刊说明</a></li>
+<li><a
+href="ob-plugin/01.Obsidian插件周刊第一期.md">Obsidian插件周刊第一期</a></li>
+<li><a
+href="ob-plugin/02.Obsidian插件周刊第二期.md">Obsidian插件周刊第二期</a></li>
+<li><a
+href="ob-plugin/03.Obsidian插件周刊第三期.md">Obsidian插件周刊第三期</a></li>
+<li><a
+href="ob-plugin/04.Obsidian插件周刊第四期.md">Obsidian插件周刊第四期</a></li>
+<li><a
+href="ob-plugin/05.Obsidian插件周刊第五期.md">Obsidian插件周刊第五期</a></li>
+<li><a
+href="ob-plugin/06.Obsidian插件周刊第六期.md">Obsidian插件周刊第六期</a></li>
+<li><a
+href="ob-plugin/07.Obsidian插件周刊第七期.md">Obsidian插件周刊第七期</a></li>
+<li><a
+href="ob-plugin/08.Obsidian插件周刊第八期.md">Obsidian插件周刊第八期</a></li>
+<li><a
+href="ob-plugin/09.Obsidian插件周刊第九期.md">Obsidian插件周刊第九期</a></li>
+<li><a
+href="ob-plugin/10.Obsidian插件周刊第十期.md">Obsidian插件周刊第十期</a></li>
+<li><a
+href="ob-plugin/11.Obsidian插件周刊第十一期.md">Obsidian插件周刊第十一期</a></li>
+<li><a
+href="ob-plugin/12.Obsidian插件周刊第十二期.md">Obsidian插件周刊第十二期</a></li>
+<li><a
+href="ob-plugin/13.Obsidian插件周刊第十三期.md">Obsidian插件周刊第十三期</a></li>
+<li><a
+href="ob-plugin/14.Obsidian插件周刊第十四期.md">Obsidian插件周刊第十四期</a></li>
+<li><a
+href="ob-plugin/15.Obsidian插件周刊第十五期.md">Obsidian插件周刊第十五期</a></li>
+<li><a
+href="ob-plugin/16.Obsidian插件周刊第十六期.md">Obsidian插件周刊第十六期</a></li>
+</ul>]]></description>
+    <pubDate>Mon, 14 Feb 2022 10:18:59 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[ 前言]]></title>
+    <link>http://ob-plugin.eryajf.net/#/</link>
+    <guid isPermaLink="false">http://ob-plugin.eryajf.net/#/</guid>
+    <description><![CDATA[<h2 id="前言">前言</h2>
+<p>请参阅：<a
+href="https://wiki.eryajf.net/pages/bcc523/">Obsidian插件周刊说明</a>。</p>
 <h2 id="mochi-cards-exporter">Mochi Cards Exporter</h2>
 <ul>
 <li>插件名称：Mochi Cards Exporter</li>
@@ -148,46 +471,6 @@ href="https://github.com/akaalias/dangerzone-writing-plugin">点我跳转</a></l
 <blockquote>
 <p>一个淘气的插件，你可以忽略他。</p>
 </blockquote>]]></description>
-    <pubDate>Sat, 15 Jan 2022 13:52:15 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[[插件周刊说明](README.md)]]></title>
-    <link>http://ob-plugin.eryajf.net/#/</link>
-    <guid isPermaLink="false">http://ob-plugin.eryajf.net/#/</guid>
-    <description><![CDATA[<ul>
-<li><a href="README.md">插件周刊说明</a></li>
-<li><a
-href="ob-plugin/01.Obsidian插件周刊第一期.md">Obsidian插件周刊第一期</a></li>
-<li><a
-href="ob-plugin/02.Obsidian插件周刊第二期.md">Obsidian插件周刊第二期</a></li>
-<li><a
-href="ob-plugin/03.Obsidian插件周刊第三期.md">Obsidian插件周刊第三期</a></li>
-<li><a
-href="ob-plugin/04.Obsidian插件周刊第四期.md">Obsidian插件周刊第四期</a></li>
-<li><a
-href="ob-plugin/05.Obsidian插件周刊第五期.md">Obsidian插件周刊第五期</a></li>
-<li><a
-href="ob-plugin/06.Obsidian插件周刊第六期.md">Obsidian插件周刊第六期</a></li>
-<li><a
-href="ob-plugin/07.Obsidian插件周刊第七期.md">Obsidian插件周刊第七期</a></li>
-<li><a
-href="ob-plugin/08.Obsidian插件周刊第八期.md">Obsidian插件周刊第八期</a></li>
-<li><a
-href="ob-plugin/09.Obsidian插件周刊第九期.md">Obsidian插件周刊第九期</a></li>
-<li><a
-href="ob-plugin/10.Obsidian插件周刊第十期.md">Obsidian插件周刊第十期</a></li>
-<li><a
-href="ob-plugin/11.Obsidian插件周刊第十一期.md">Obsidian插件周刊第十一期</a></li>
-<li><a
-href="ob-plugin/12.Obsidian插件周刊第十二期.md">Obsidian插件周刊第十二期</a></li>
-<li><a
-href="ob-plugin/13.Obsidian插件周刊第十三期.md">Obsidian插件周刊第十三期</a></li>
-<li><a
-href="ob-plugin/14.Obsidian插件周刊第十四期.md">Obsidian插件周刊第十四期</a></li>
-<li><a
-href="ob-plugin/15.Obsidian插件周刊第十五期.md">Obsidian插件周刊第十五期</a></li>
-</ul>]]></description>
     <pubDate>Sat, 15 Jan 2022 13:52:15 +0800</pubDate>
   </item>
    
@@ -1044,337 +1327,6 @@ href="https://github.com/avirut/obsidian-query2table">点我跳转</a></li>
 <p>注意：这个插件是一个临时解决方案，现在已经被<a
 href="https://github.com/blacksmithgu/obsidian-dataview">Obsidian
 Dataview</a>更好地解决了。而且该插件的仓库已归档。</p>
-</blockquote>]]></description>
-    <pubDate>Sat, 25 Dec 2021 23:24:45 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[ 前言]]></title>
-    <link>http://ob-plugin.eryajf.net/#/</link>
-    <guid isPermaLink="false">http://ob-plugin.eryajf.net/#/</guid>
-    <description><![CDATA[<h2 id="前言">前言</h2>
-<p>请参阅：<a
-href="https://wiki.eryajf.net/pages/bcc523/">Obsidian插件周刊说明</a>。</p>
-<h2 id="citations">Citations</h2>
-<ul>
-<li>插件名称：Citations</li>
-<li>插件作者：Jon Gauthier</li>
-<li>插件说明：自动搜索并插入Zotero库中的引文</li>
-<li>插件仓库：<a
-href="https://github.com/hans/obsidian-citation-plugin">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>这个<a
-href="https://obsidian.md/">Obsidian</a>插件将您的学术参考管理器与
-Obsidian 编辑体验相结合。</p>
-</blockquote>
-<h2 id="obsidian_to_anki">Obsidian_to_Anki</h2>
-<ul>
-<li>插件名称：Obsidian_to_Anki</li>
-<li>插件作者：Pseudonium</li>
-<li>插件说明：这是一个Anki集成插件！专为高效批量导出而设计。</li>
-<li>插件仓库：<a
-href="https://github.com/Pseudonium/Obsidian_to_Anki">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>Anki的集成。</p>
-</blockquote>
-<h2 id="rollover-daily-todos">Rollover Daily Todos</h2>
-<ul>
-<li>插件名称：Rollover Daily Todos</li>
-<li>插件作者：Matt Sessions</li>
-<li>插件说明：这个插件会把你最后一张每日便笺中的任何未选中的复选框转到今天的便笺中</li>
-<li>插件仓库：<a
-href="https://github.com/shichongrui/obsidian-rollover-daily-todos">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>该插件能够自动将以往每天未完成的任务自动同步到当天的笔记中。</p>
-</blockquote>
-<p>官方动图如下：</p>
-<p><img
-src="http://t.eryajf.net/imgs/2021/12/462749bec828dc3a.gif" /></p>
-<h2 id="automatically-reveal-active-file">Automatically Reveal Active
-File</h2>
-<ul>
-<li>插件名称：Automatically Reveal Active File</li>
-<li>插件作者：Matt Sessions</li>
-<li>插件说明：这个插件会在侧面导航中自动显示当前活动的文件。</li>
-<li>插件仓库：<a
-href="https://github.com/shichongrui/obsidian-reveal-active-file">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>在通过左侧边栏文件管理切换文件时明确显示当前文件，作用不是很大。</p>
-</blockquote>
-<h2 id="export-to-tex">Export To TeX</h2>
-<ul>
-<li>插件名称：Export To TeX</li>
-<li>插件作者：Zach Raines</li>
-<li>插件说明：以适合粘贴到TeX文档中的格式导出vault文件</li>
-<li>插件仓库：<a
-href="https://github.com/raineszm/obsidian-export-to-tex">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>导出为 LaTeX 格式的 obsidian 注释，适合粘贴到 TeX 文件中。</p>
-</blockquote>
-<p>官方动图如下：</p>
-<p><img
-src="http://t.eryajf.net/imgs/2021/12/96270bac8f275e5e.gif" /></p>
-<h2 id="extended-mathjax">Extended MathJax</h2>
-<ul>
-<li>插件名称：Extended MathJax</li>
-<li>插件作者：Xavier Denis</li>
-<li>插件说明：启用其他MathJax软件包，并为MathJax添加全局前导</li>
-<li>插件仓库：<a
-href="https://github.com/xldenis/obsidian-latex">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>该插件通过在启动时加载的 MathJax 前导文件扩展了 Obsidian 中的 MathJax
-支持。它还启用了一些额外的 MathJax
-扩展（特别是<code>mhchem</code>和<code>bussproofs</code>）。
-前导码存储在<code>preamble.sty</code>Vault
-根目录中的一个文件中。要重新加载对前导码的更改，请使用<code>Cmd + R</code>/刷新保险库<code>Ctrl + R</code>。</p>
-</blockquote>
-<h2 id="apple-reminders">Apple Reminders</h2>
-<ul>
-<li>插件名称：Apple Reminders</li>
-<li>插件作者：Rishi Raval</li>
-<li>插件说明：试图将苹果提醒带入黑曜石的插件。</li>
-<li>插件仓库：<a
-href="https://github.com/urishiraval/obsidian-apple-reminders-plugin">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>一个试图将 Apple Reminders 带入<a
-href="https://obsidian.md/">Obsidian 的</a>插件。
-注意：这个插件可能有点笨重，但我已经尽力让它尽可能高效。欢迎任何建议。
-作者声明：（我不对任何数据丢失负责….虽然这个插件从不删除任何提醒，只会改变它们的属性）</p>
-</blockquote>
-<h2 id="contextual-typography">Contextual Typography</h2>
-<ul>
-<li>插件名称：Contextual Typography</li>
-<li>插件作者：mgmeyers</li>
-<li>插件说明：此插件在预览模式下向所有顶级 div
-添加一个数据标记名称属性，其中包含子标记名称，从而允许上下文排版样式。</li>
-<li>插件仓库：<a
-href="https://github.com/mgmeyers/obsidian-contextual-typography">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>这是一个能够调整标题样式的插件，理论上对于普通使用者而言，不需要折腾这个插件。</p>
-</blockquote>
-<h2 id="neo4j-graph-view">Neo4j Graph View</h2>
-<ul>
-<li>插件名称：Neo4j Graph View</li>
-<li>插件作者：Emile van Krieken</li>
-<li>插件说明：一个使用 Neo4j 的高级图形可视化和查询插件。</li>
-<li>插件仓库：<a
-href="https://github.com/HEmile/obsidian-neo4j-graph-view">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>注意忽略这个插件，如下是作者的声明。</p>
-</blockquote>
-<blockquote>
-<p>这个插件已经用新的名字Juggl重写了。它不再需要Neo4j和Python，并且具有比Neo4j图视图更多的功能。您可以从黑曜石社区插件设置安装这个新插件!请注意，Neo4j图形视图插件将很快从社区插件中删除。</p>
-</blockquote>
-<h2 id="snippets-plugin">Snippets plugin</h2>
-<ul>
-<li>插件名称：Snippets plugin</li>
-<li>插件作者：Pelao</li>
-<li>插件说明：从黑曜石执行简单的脚本/片段。这个插件是实验性的</li>
-<li>插件仓库：<a
-href="https://github.com/cristianvasquez/obsidian-snippets-plugin">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>这个插件允许你从 obsidian.md 中运行 Python、Javascript
-等片段。同样，这个插件并不适用于普通用户关注。</p>
-</blockquote>]]></description>
-    <pubDate>Sat, 25 Dec 2021 23:24:45 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[ 前言]]></title>
-    <link>http://ob-plugin.eryajf.net/#/</link>
-    <guid isPermaLink="false">http://ob-plugin.eryajf.net/#/</guid>
-    <description><![CDATA[<h2 id="前言">前言</h2>
-<p>请参阅：<a
-href="https://wiki.eryajf.net/pages/bcc523/">Obsidian插件周刊说明</a>。</p>
-<h2 id="format-hotkeys">Format Hotkeys</h2>
-<ul>
-<li>插件名称：Format Hotkeys</li>
-<li>插件作者：Ansel Santosa</li>
-<li>插件说明：黑曜石的谷歌文档样式格式化热键</li>
-<li>插件仓库：<a
-href="https://github.com/anstosa/format-hotkeys-obsidian">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>为 Obsidian添加了<a
-href="https://support.google.com/docs/answer/179738">Google Docs
-风格的键盘快捷键</a>。</p>
-</blockquote>
-<p><strong>MacOS注意事项</strong>：</p>
-<ul>
-<li>Ctrl是Cmd在MacOS</li>
-<li>Alt是Option在MacOS</li>
-</ul>
-<table>
-<thead>
-<tr class="header">
-<th>默认热键</th>
-<th>行动</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Ctrl+ Shift+9</td>
-<td>切换块引用</td>
-</tr>
-<tr class="even">
-<td>Ctrl+ Shift+8</td>
-<td>Toggle 项目符号列表</td>
-</tr>
-<tr class="odd">
-<td>Ctrl+ Shift+7</td>
-<td>Toggle 编号列表</td>
-</tr>
-<tr class="even">
-<td>Ctrl+ Shift+6</td>
-<td>切换清单</td>
-</tr>
-<tr class="odd">
-<td>Ctrl+ Alt+0</td>
-<td>应用普通文本样式</td>
-</tr>
-<tr class="even">
-<td>Ctrl+ Alt+1</td>
-<td>应用标题 1</td>
-</tr>
-<tr class="odd">
-<td>Ctrl+ Alt+2</td>
-<td>应用标题 2</td>
-</tr>
-<tr class="even">
-<td>Ctrl+ Alt+3</td>
-<td>应用标题 3</td>
-</tr>
-<tr class="odd">
-<td>Ctrl+ Alt+4</td>
-<td>应用标题 4</td>
-</tr>
-<tr class="even">
-<td>Ctrl+ Alt+5</td>
-<td>应用标题 5</td>
-</tr>
-<tr class="odd">
-<td>Ctrl+ Alt+6</td>
-<td>应用标题 6</td>
-</tr>
-</tbody>
-</table>
-<h2 id="maximise-active-pane">Maximise Active Pane</h2>
-<ul>
-<li>插件名称：Maximise Active Pane</li>
-<li>插件作者：death_au</li>
-<li>插件说明：将当前活动工作区最大化</li>
-<li>插件仓库：<a
-href="https://github.com/deathau/maximise-active-pane-obsidian">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>能够将当前编辑活动区域放大。并且支持绑定一个快捷键来快速切换，非常推荐安装。</p>
-</blockquote>
-<p>官方动图如下：</p>
-<p><img
-src="http://t.eryajf.net/imgs/2021/12/67105cfeea256d41.gif" /></p>
-<h2 id="add-codemirrors-matchbrackets.js">Add Codemirror’s
-matchbrackets.js</h2>
-<ul>
-<li>插件名称：Add Codemirror’s matchbrackets.js</li>
-<li>插件作者：MrJackphil</li>
-<li>插件说明：此插件添加了matchbrackets.js，允许使用<code>di[</code>或<code>ya(Vim模式下的</code>命令</li>
-<li>插件仓库：<a
-href="https://github.com/mrjackphil/obsidian-add-codemirror-matchbrackets">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>这个插件添加了 matchbrackets.js 允许在 Vim
-模式下使用<code>di[</code>或<code>ya(</code>命令。一般情况下，大家都用不到。</p>
-</blockquote>
-<h2 id="julian-date-quick-insert">Julian Date Quick Insert</h2>
-<ul>
-<li>插件名称：Julian Date Quick Insert</li>
-<li>插件作者：thek3nger</li>
-<li>插件说明：提供了一个添加朱利安日期的热键</li>
-<li>插件仓库：<a
-href="https://github.com/THeK3nger/obsidian-juliandate">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>这是一个简单的插件，它添加了一个用于插入朱利安日期的热键。朱利安日期是自朱利安时期开始以来的连续天数，主要由天文学家用于注释天文事件。通常不太用得到。</p>
-</blockquote>
-<h2 id="emoji-toolbar">Emoji Toolbar</h2>
-<ul>
-<li>插件名称：Emoji Toolbar</li>
-<li>插件作者：oliveryh</li>
-<li>插件说明：快速搜索表情符号并将其插入编辑器。</li>
-<li>插件仓库：<a
-href="https://github.com/oliveryh/obsidian-emoji-toolbar">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>能够快速添加表情符号。</p>
-</blockquote>
-<p>官方动图如下：</p>
-<p><img
-src="http://t.eryajf.net/imgs/2021/12/a6a3e743567daf1c.gif" /></p>
-<h2 id="fullscreen-focus-mode">Fullscreen Focus Mode</h2>
-<ul>
-<li>插件名称：Fullscreen Focus Mode</li>
-<li>插件作者：Razum</li>
-<li>插件说明：添加在全屏聚焦模式下查看单个文档页的命令</li>
-<li>插件仓库：<a
-href="https://github.com/razumihin/obsidian-fullscreen-plugin">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>也是将当前窗口全屏的操作，只不过这个全屏是直接全屏到整个显示屏。</p>
-</blockquote>
-<h2 id="footlinks">Footlinks</h2>
-<ul>
-<li>插件名称：Footlinks</li>
-<li>插件作者：Daha</li>
-<li>插件说明：将主文本中的url提取到页脚。</li>
-<li>插件仓库：<a
-href="https://github.com/DahaWong/obsidian-footlinks">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>能够将文章中的链接以页脚形式提取到文章末尾，不过我这里验证好像不太能用。</p>
-</blockquote>
-<h2 id="mind-map">Mind Map</h2>
-<ul>
-<li>插件名称：Mind Map</li>
-<li>插件作者：James Lynch</li>
-<li>插件说明：使用Markmap将markdown注释显示为思维导图。</li>
-<li>插件仓库：<a
-href="https://github.com/lynchjames/obsidian-mind-map">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>能够将标题，无序列表渲染为思维导图的插件，还能直接导出为图片。<a
-href="https://wiki.eryajf.net/pages/6ed7fe/#mind-map">详情参考</a>。</p>
-</blockquote>
-<h2 id="flashcards">Flashcards</h2>
-<ul>
-<li>插件名称：Flashcards</li>
-<li>插件作者：Alex Colucci</li>
-<li>插件说明：Anki 集成。</li>
-<li>插件仓库：<a
-href="https://github.com/reuseman/flashcards-obsidian">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>提供Anki的集成能力，我对这块儿不太熟悉，因此不做过多介绍。</p>
-</blockquote>
-<h2 id="completed-area">Completed Area</h2>
-<ul>
-<li>插件名称：Completed Area</li>
-<li>插件作者：Daha</li>
-<li>插件说明：将已完成的待办事项移动到单独的已完成区域。</li>
-<li>插件仓库：<a
-href="https://github.com/DahaWong/obsidian-completed-area">点我跳转</a></li>
-</ul>
-<blockquote>
-<p>体验之后似乎没有作用，可忽略该插件。</p>
 </blockquote>]]></description>
     <pubDate>Sat, 25 Dec 2021 23:24:45 +0800</pubDate>
   </item>

@@ -14,3 +14,4 @@
 - [Obsidian插件周刊第十三期](ob-plugin/13.Obsidian插件周刊第十三期.md)
 - [Obsidian插件周刊第十四期](ob-plugin/14.Obsidian插件周刊第十四期.md)
 - [Obsidian插件周刊第十五期](ob-plugin/15.Obsidian插件周刊第十五期.md)
+- [Obsidian插件周刊第十六期](ob-plugin/16.Obsidian插件周刊第十六期.md)
