@@ -6,3 +6,4 @@
 
 [源码](https://github.com/eryajf/Obsidian-Plugin-Weekly)
 [浏览](README.md)
+[订阅](http://ob-plugin.eryajf.net/feed.xml)
